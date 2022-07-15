@@ -2,7 +2,7 @@
 :: https://github.com/Kataiser/tf2-rich-presence/blob/master/LICENSE
 
 @echo off
-TITLE TF2 Rich Presence ({tf2rpvnum})
+TITLE TF2 Rich Presence
 cd "%~dp0"
 
 if not exist resources\ (
